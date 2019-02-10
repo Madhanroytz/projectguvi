@@ -17,10 +17,6 @@ public class Greater {
 		      }
 		}
 		 System.out.println(max);
-      //int max=b[0];
-    //  for(int j=0;j<a;j++)
-      //{
-     
       }
 	}
 
